@@ -1,7 +1,7 @@
 # BMS-Bus-Management-System-Full-Stack-Application
 Full Stack Bus Management System 
 
-Simple Bus Management System build with React JS, Html, CSS, Bootstrap, Spring Boot Rest API, Javascript, Tailwind CSS.
+Simple Bus Management System build with React JS, Html, CSS, Bootstrap, Spring Boot Rest API, Javascript, Tailwind CSS, MySQL.
 
 * A web application developed using spring boot framework, focusing on exploring the features of Spring Boot as a Software development framework.
 * It is also to showcase the knowledge acquired not restricted to performing CRUD operations but to provide the client with the proper response to the requests, irrespective of their nature.
